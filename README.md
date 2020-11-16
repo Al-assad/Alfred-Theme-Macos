@@ -4,7 +4,7 @@ Mac OS Big Sur style Alfred Theme，Including Light and Dark Mode. Support Alfre
 
 ### How to Install 
 
-* Download theme files from the release page（https://github.com/Al-assad/Alfred-Theme-Big-Sur/releases/）.
+* Download theme files from the [release page](https://github.com/Al-assad/Alfred-Theme-Big-Sur/releases/).
 * Double click the theme file to complete the installation.
 
 ### Dark Mode Theme
