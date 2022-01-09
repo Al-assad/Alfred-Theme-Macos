@@ -1,4 +1,4 @@
-# Alfred Theme for Mac OS Big Sur/Monterey
+# Alfred Theme for Mac OS Big Sur / Monterey
 
 Mac OS Big Sur/Monterey style Alfred Theme，Including Light and Dark Mode. Support Alfred 2.x, 3.x, 4.x version.
 
@@ -9,7 +9,13 @@ Mac OS Big Sur/Monterey style Alfred Theme，Including Light and Dark Mode. Supp
 
 ### Monterey Theme(Dark Mode)
 
-![iShot2020-11-16 15.20.40](https://cdn.jsdelivr.net/gh/Al-assad/md-img@master/bucket-3/202201091400.png)
+![iShot2021-1-9 15.20.40](https://cdn.jsdelivr.net/gh/Al-assad/md-img@master/bucket-3/202201091400.png)
+
+
+### Big Sur Theme(Dark Mode)
+
+ ![iShot2020-11-16 15.20.40](https://cdn.jsdelivr.net/gh/Al-assad/md-img@master/bucket-3/202011161508.png)
+ 
 
 ### Big Sur Theme(Light Mode)
 
