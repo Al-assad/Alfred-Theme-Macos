@@ -9,7 +9,7 @@ Mac OS Big Sur style Alfred Theme，Including Light and Dark Mode. Support Alfre
 
 ### Dark Mode Theme
 
-![iShot2020-11-16 15.20.40](https://cdn.jsdelivr.net/gh/Al-assad/md-img@master/bucket-3/202011161508.png)
+![iShot2020-11-16 15.20.40](https://cdn.jsdelivr.net/gh/Al-assad/md-img@master/bucket-3/202201091400.png)
 
 ### Light Mode Theme
 
